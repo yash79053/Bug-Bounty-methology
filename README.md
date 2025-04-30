@@ -1,5 +1,6 @@
 # Bug-Bounty-methology
-First we know about the Bug Bounty Platforms which is usefull for everyone. 
+First we know about the Bug Bounty Platforms which is usefull for everyone.
+
 **Bug Bounty Platforms**
 
 **Bugcrowd**
